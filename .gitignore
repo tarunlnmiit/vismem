@@ -1,0 +1,10 @@
+*.pyc
+model.png
+*.cfg
+.ipynb_checkpoints/Python_Ballon_Model_V3-checkpoint.ipynb
+*.ipynb_checkpoints
+.DS_Store
+Serial Recall Working Memory.py
+Free Recall Memory.ipynb
+helper_free_recall.py
+Python_Ballon_Model_V3.ipynb
